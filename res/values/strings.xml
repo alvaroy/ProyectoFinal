@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">ProyectoFinalAlvaroReyes</string>
+    <string name="struser">Usuario</string>
+    <string name="strpass">Contraseña</string>
+    <string name="strfacebook">Ingresar con Facebook</string>
+    <string name="srcacceptbutton">Aceptar</string>
+    <string name="facebook_app_id">1483616258569263</string>
+    <string name="strSuccess">Correcto</string>
+    <string name="strfail">Fallo</string>
+    <string name="reporte">Ver Reporte</string>
+
+</resources>
